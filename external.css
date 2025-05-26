@@ -76,9 +76,20 @@
             background-color: rgba(255, 255, 255, 0.2);
 
        }
+
+       header {
+         text-align: center;
+        
+         padding: 2rem 1rem;
+
+         background-color: lightgray;
+
+         border: 1px solid navy;
+
+       }
        header img {
 
-          width: 200px;
+          width: 400px;
 
           height: auto;
 
